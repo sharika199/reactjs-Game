@@ -1,0 +1,14 @@
+/* Write your code here. */
+
+.gr {
+  margin: 30px;
+  display: flex;
+  background-color: #ffffff32;
+  justify-content: space-around;
+  border-radius: 23px;
+}
+
+.hj {
+  display: flex;
+  flex-direction: column;
+}

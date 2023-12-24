@@ -1,0 +1,42 @@
+/* Write your code here. */
+
+.bb {
+  background-color: powderblue;
+  border-radius: 12px;
+  height: 100px;
+  width: 100%;
+  outline: none;
+  cursor: pointer;
+  padding: 30px;
+  border: 3px solid yellow;
+  align-items: center;
+}
+
+@media screen and(min-width:768px) {
+  .bb {
+    height: 200px;
+  }
+}
+
+.b {
+  list-style-type: none;
+  background-color: #ffffff32;
+  margin-left: 8px;
+  margin-bottom: 8px;
+}
+
+@media screen and(min-width:992px) {
+  .b {
+    width: 24px;
+  }
+}
+
+.gg {
+  width: 50px;
+}
+
+@media screen and(min-width:768px) {
+  .gg {
+    width: 100px;
+  }
+}

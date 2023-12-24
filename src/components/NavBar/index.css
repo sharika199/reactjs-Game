@@ -1,0 +1,32 @@
+/* Write your code here. */
+
+.bg1 {
+  background-color: #ffffff32;
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+
+  border: 3px solid;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  justify-content: space-between;
+}
+
+.g {
+  display: flex;
+  flex-direction: row;
+}
+
+.ggg {
+  font-size: 23px;
+  color: coral;
+}
+.hh {
+  display: flex;
+  justify-content: space-between;
+}
+
+.h {
+  padding-left: 30px;
+}
